@@ -1,0 +1,99 @@
+body{
+    font-family: 'ZCOOL QingKe HuangYou', ;
+}
+h2{
+    font-size: 40px;
+}
+
+.highlight{
+    font-size: 50px;
+    color: tomato;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(131, 111, 73);
+    background-image:linear-gradient(45deg,lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 700;
+}
+.button:hover{
+    color: red;
+}
+#first-section{
+     height:700px;
+     background-image: url(image/header-bg.png);    
+}
+.text-part{
+    width: 40%;
+    float: left;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.image-part{
+     width:30%;
+     height: 500px;
+     float: left;
+}
+#second-section{
+    background-image: url("image/biography-bg.png");
+    height: 800px;
+}
+
+.image-two{
+   width: 40%;
+   float: left;
+  
+}
+    
+   
+.text-second{
+   width: 40%;
+   float: left;
+   padding-top: 300px;
+   margin-left: 70px;
+}
+#my-latest-work{
+   
+   background-image: url("image/latest-work-bg.png");
+   height: 700px;
+   
+
+}
+h2{
+    text-align: center;
+}
+.pic1{
+      width: 30%;
+      float: left;
+      margin-left: 50px;
+      
+
+}
+}
+.pic2{
+      width: 30%;
+      float: left;
+      margin-left: 50px;
+     
+}
+
+.pic3{
+    width: 3%;
+    float: left;
+    margin-left: 50px;
+   }
+   .client{
+       text-align: center;
+   }
+   .text{
+    display: table; 
+    margin: 0px auto 0px auto; 
+    padding:20px;font-size:30px;background-color:magenta;
+    border-radius: 5px;
+ }
+.text:hover{
+    color:white;
+}
